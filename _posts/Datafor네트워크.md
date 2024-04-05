@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "테스트용"
+---
+
 # 복잡계 네트워크(Complex Network)
 
 - 생명과학  예시: `단백질 네트워크`
